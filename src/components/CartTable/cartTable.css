@@ -1,0 +1,17 @@
+.cart-items-table h3 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font: weight 100;
+  margin-bottom: 30px !important;
+}
+.cart-items-table {
+  width: 70%;
+  padding: 40px 100px !important;
+}
+
+.fa-times-circle {
+  color: red !important;
+  margin-right: 20px !important;
+  font-size: 25px;
+}

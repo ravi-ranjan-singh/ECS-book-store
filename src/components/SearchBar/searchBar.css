@@ -1,0 +1,19 @@
+.input-field {
+  width: 35%;
+  color: #ffffff !important;
+  margin-bottom: 50px !important;
+}
+
+.input-field input {
+  color: #ffffff !important;
+  border-bottom: 1px solid #ffffff !important;
+}
+.input-field i {
+  color: #ffffff;
+  font-size: 25px !important;
+  margin-right: 10px !important;
+}
+
+.prefix.active {
+  color: #ffffff !important;
+}

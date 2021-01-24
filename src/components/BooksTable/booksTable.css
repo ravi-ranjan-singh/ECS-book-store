@@ -1,0 +1,74 @@
+table {
+  letter-spacing: 2px;
+  margin-bottom: 50px !important;
+}
+
+/* table header */
+th {
+  height: 70px !important;
+  background-color: #36304b;
+  color: #ffffff;
+  border-radius: 0px !important;
+}
+
+th:first-child {
+  border-top-left-radius: 10px !important;
+}
+
+th:last-child {
+  border-top-right-radius: 10px !important;
+}
+
+/* table body */
+
+tbody {
+  border: 1px solid rgb(233, 233, 233) !important;
+}
+
+/* table row and header */
+
+.s-no {
+  width: 7%;
+  text-align: center !important;
+  padding-left: 5px !important;
+}
+
+.title {
+  width: 60%;
+  padding: 10px 50px !important;
+  cursor: pointer;
+}
+
+td.title:hover {
+  text-decoration: underline !important;
+}
+
+.rating {
+  padding-left: 10px !important;
+  width: 20%;
+}
+
+.price {
+  padding-left: 10px;
+  padding-right: 30px !important;
+}
+
+.cart-btn {
+  width: 5%;
+}
+
+tr:nth-child(odd) {
+  background-color: #ffffff !important;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.added-cart {
+  color: #ff0202;
+}
+
+.fa-chevron-up,
+.fa-chevron-down {
+  margin-left: 10px !important;
+}

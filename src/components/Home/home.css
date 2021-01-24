@@ -1,0 +1,13 @@
+.home {
+  width: 100%;
+  min-height: 100vh;
+  margin-top: 0px !important;
+  display: flex;
+  flex-direction: column;
+  padding: 50px 100px !important;
+}
+
+.helpers {
+  display: flex;
+  justify-content: space-between;
+}

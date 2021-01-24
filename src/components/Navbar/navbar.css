@@ -1,0 +1,34 @@
+nav {
+  background: #0e153a !important;
+}
+.nav-wrapper {
+  padding: 0px 20px !important;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 300;
+}
+
+#nav-mobile a {
+  margin-right: 10px !important;
+  padding: 0px 20px !important;
+}
+
+.sidenav a {
+  padding-left: 15px !important;
+}
+
+.badge {
+  color: white !important;
+  border-radius: 50px;
+  font-weight: 700;
+  margin-left: 10px !important;
+}
+
+.sidenav i {
+  margin-right: 10px !important;
+}
+
+.sidenav .badge {
+  margin-top: 12px !important;
+  margin-right: 10px !important;
+}

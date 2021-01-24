@@ -1,0 +1,24 @@
+.book-info {
+  min-height: 50vh;
+  width: 100% !important;
+  padding: 40px !important;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.book-info h5 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.info h6 {
+  text-align: justify;
+  margin-top: 20px !important;
+  letter-spacing: 2px;
+  line-height: 30px;
+}
